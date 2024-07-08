@@ -25,3 +25,7 @@
     background-color: #cc7462; /*marrom claro*/
     color: white;
 }
+
+.imageshadow {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
